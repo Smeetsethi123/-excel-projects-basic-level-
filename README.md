@@ -1,2 +1,2 @@
-# my-first-project-
-This is my first project in excel, where I created an expense tracker.
+# EXCEL PROJECTS-
+Series of projects BASED on fundamental skills of excel.
